@@ -1,7 +1,6 @@
 {
   "name": "lawyer_portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,10 +11,20 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.20",
+    "it": "^1.1.1",
     "postcss-scss": "^4.0.9"
   },
   "devDependencies": {
     "postcss": "^8.4.49",
     "postcss-cli": "^11.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirwww/lawyer_portfolioo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abirwww/lawyer_portfolioo/issues"
+  },
+  "homepage": "https://github.com/abirwww/lawyer_portfolioo#readme",
+  "description": ""
 }
